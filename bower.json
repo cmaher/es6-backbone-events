@@ -1,0 +1,13 @@
+{
+  "name": "es6-backbone-events",
+  "version": "1.0.0",
+  "description": "Backbone Events as an ES6 module",
+  "main": "index.js",
+  "keywords": [
+    "backbone",
+    "events",
+    "es6"
+  ],
+  "author": "Christian Maher",
+  "license": "MIT"
+}

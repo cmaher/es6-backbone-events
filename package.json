@@ -1,0 +1,33 @@
+{
+  "name": "es6-backbone-events",
+  "version": "1.0.0",
+  "description": "Backbone Events as an ES6 module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmaher/es6-backbone-events.git"
+  },
+  "keywords": [
+    "backbone",
+    "events",
+    "es6"
+  ],
+  "author": "Christian Maher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmaher/es6-backbone-events/issues"
+  },
+  "homepage": "https://github.com/cmaher/es6-backbone-events",
+  "devDependencies": {
+    "backbone": "^1.1.2",
+    "del": "^1.1.1",
+    "exec-sync": "^0.1.6",
+    "gulp": "^3.8.10",
+    "gulp-json-editor": "^2.2.1",
+    "gulp-rename": "^1.2.0",
+    "underscore": "^1.7.0"
+  }
+}
